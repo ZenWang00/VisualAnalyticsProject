@@ -13,5 +13,6 @@ Kanban Board: https://trello.com/b/XEP0xiB2/visual-analysis-project
 - feat(auth): support OAuth login
 - fix(map): correct marker position
 - docs: add project setup guide
+
 E.g. feat(auth): add login validation
 
